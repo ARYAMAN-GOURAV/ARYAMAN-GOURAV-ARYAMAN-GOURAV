@@ -83,6 +83,9 @@ I enjoy working at the intersection of **data, business understanding, and moder
 ### ![AI Tools](https://img.shields.io/badge/AI_Tools-8A2BE2?style=for-the-badge)
 ### ![Statistics](https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge)
 
+## 📌 Machine Learning Projects
+
+- 🔹 [Bank Marketing ML Project](https://github.com/ARYAMAN-GOURAV/Machine-Learning-Projects)
 
 ---
 
